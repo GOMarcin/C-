@@ -1,5 +1,16 @@
 Aplikacja coś na wzór gry Milionerów. 
-Pytania wielotematyczne głównie naukowe. 
-Cztery odpowiedzi do wyboru. 
-Dodatkowo dostępne przynajmniej jedno koło ratunkowe 50/50.
+Przy rozpoczęciu gry wpisuje się nazwę gracza. 
+Gracz dostaje kolejno pytania wielotematyczne głównie naukowe, 
+tak długo dopóki nie poda błędnej odpowiedzi - wtedy kończy grę. 
+Cztery bądź więcej odpowiedzi do wyboru. 
+Poziom trudności rośnie z każdym kolejnym pytaniem. 
+W dalszych etapach pytania będą wielokrotnego wyboru np dwie odpowiedzi prawidłowe. 
+W ostatnim etapie będzie trzeba zaznaczyć pytania w odpowiedniej kolejności,
+np. mamy pytanie uporządkuj nazwy wierzchołków gór według ich wysokości od największej do najmniejszej
+i będzie trzeba odpowiednio kliknąć (Mount Everest, Kilimandżaro, Mont Blanc) alternatywny przykład
+według kolejności chronologicznej kliknąć daty koronacji poszczególnych Królów.
+Czas gry będzie naliczany.
+Wyniki oraz czas gry przypisywane są do nicknemów oraz przechowywane.
+Dostępne dwa koła ratunkowe, odrzucenie 1 błędnej odpowiedzi, 50/50, 
+wskazanie pierwszej poprawnej odpowiedzi przy pytaniach sortowanych (wierzchołki gór, daty).
 Technologia WPF
